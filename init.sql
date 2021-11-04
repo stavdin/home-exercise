@@ -1,0 +1,1 @@
+create table post(id int,content text,num_of_likes int,date date);
